@@ -16,3 +16,10 @@ age = gets.to_i
 
 # interpolation
 puts "Hello #{first_name} you are #{age} years old!"
+
+# functions
+def say_name(name)
+  puts name
+end
+
+say_name(name)

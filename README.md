@@ -9,6 +9,7 @@
 <ul>
   <li>Ruby on Rails</li>
   <li>Html & Css</li>
-  <li>JavaScript</li>
+  <li>Vue.js</li>
+  <li>Heroku</li>
 </ul>
 

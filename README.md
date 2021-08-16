@@ -14,7 +14,7 @@
 <ul>
   <li>Ruby on Rails</li>
   <li>Html & Css</li>
-  <li>Vue.js</li>
-  <li>Heroku</li>
+  <li>JavaScript</li>
+  <li>BootStrap</li>
 </ul>
 

@@ -22,4 +22,7 @@ def say_name(name)
   puts name
 end
 
-say_name(name)
+# arrays
+my_array = ["Kid" , "Etrex", "Oria"]
+
+# loops, while, for, each

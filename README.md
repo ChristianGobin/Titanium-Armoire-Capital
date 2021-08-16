@@ -6,7 +6,7 @@
 </p>
 <h4> About Us: </h4>
 <p>
-  We are a Corporation that specializes in the reallocation of funds from one client to the other seamlessly, discrete, and with a promise of atleast 1% return per day guaranteed.
+  We are a Corporation that specializes in the reallocation of funds seamlessly, and discrete. We give our employees the option to interview others they think would benefit from this position. This opens another stream of income to our employees through our referral program.
 </p>
 <h3>
   Tech Used:

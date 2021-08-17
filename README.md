@@ -2,7 +2,7 @@
 <hr/>
 <p>
   Welcome to Not a Pyramid Scheme.<br/>
-  This repo is a mock website/webapp for the fictional company "Not A Pyramid Scheme LLC".
+  This repo is a cross platform app for the fictional company "Not A Pyramid Scheme LLC".
 </p>
 <h4> About Us: </h4>
 <p>
@@ -12,9 +12,7 @@
   Tech Used:
 </h3>
 <ul>
-  <li>Ruby on Rails</li>
-  <li>Html & Css</li>
-  <li>JavaScript</li>
-  <li>BootStrap</li>
+  <li>Dart</li>
+  <li>Flutter</li>
 </ul>
 

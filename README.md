@@ -21,7 +21,7 @@
   <li>
     Back-End:
     <li>
-      PHP/Laravel? (Not sure yet)
+      Node.js(Not sure yet)
     </li>
   </li>
 </ul>

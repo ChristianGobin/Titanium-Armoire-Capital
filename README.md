@@ -2,7 +2,7 @@
 <hr/>
 <p>
   Welcome to Not a Pyramid Scheme.<br/>
-  This repo is a cross platform app for the fictional company "Not A Pyramid Scheme LLC".
+  This repo is a responsive single page application for the fictional company "Not A Pyramid Scheme LLC".
 </p>
 <h4> About Us: </h4>
 <p>

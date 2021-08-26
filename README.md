@@ -18,6 +18,11 @@
       <li>
         Vue.js 3 
       </li>
+      <li>
+        Bootstrap4
+      </li>
+      <li>
+        
     </ul>
   </li>
   <li>
@@ -25,6 +30,20 @@
     <ul>
       <li>
          Node.js(Not sure yet)
+      </li>
+    </ul>
+  </li>
+  <li>
+    Version Control + Package Manager:
+    <ul>
+      <li>
+        Git
+      </li>
+      <li>
+        Homebrew
+      </li>
+      <li>
+        Npm
       </li>
     </ul>
   </li>

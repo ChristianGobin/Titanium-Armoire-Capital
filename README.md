@@ -12,7 +12,17 @@
   Tech Used:
 </h3>
 <ul>
-  <li>Dart</li>
-  <li>Flutter</li>
+  <li>
+    Front-End:
+    <li>
+      Vue.js 3 
+    </li>
+  </li>
+  <li>
+    Back-End:
+    <li>
+      PHP/Laravel? (Not sure yet)
+    </li>
+  </li>
 </ul>
 

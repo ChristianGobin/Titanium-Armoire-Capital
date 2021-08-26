@@ -1,8 +1,8 @@
-# Not A Pyramid Scheme Corporation
+# Titanium Armoire Capital Investment Corporation
 <hr/>
 <p>
-  Welcome to Not a Pyramid Scheme.<br/>
-  This repo is a responsive single page application for the fictional company "Not A Pyramid Scheme LLC".
+  Welcome to Titanium Armoire Capital.<br/>
+  This repo is a responsive single page application for the fictional company "Titanium Armoire Capital Investment Corporation".
 </p>
 <h4> About Us: </h4>
 <p>

@@ -35,7 +35,7 @@
     </ul>
   </li>
   <li>
-    Version Control + Package Manager:
+    Version Control + Package Managers:
     <ul>
       <li>
         Git

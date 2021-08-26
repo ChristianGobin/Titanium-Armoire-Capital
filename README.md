@@ -14,15 +14,19 @@
 <ul>
   <li>
     Front-End:
-    <li>
-      Vue.js 3 
-    </li>
+    <ul>
+      <li>
+        Vue.js 3 
+      </li>
+    </ul>
   </li>
   <li>
     Back-End:
-    <li>
-      Node.js(Not sure yet)
-    </li>
+    <ul>
+      <li>
+         Node.js(Not sure yet)
+      </li>
+    </ul>
   </li>
 </ul>
 

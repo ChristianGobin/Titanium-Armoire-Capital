@@ -43,6 +43,7 @@
       <li>
         Swift UI
       </li>
+    </ul>
   </li>
   <li>
     Version Control + Package Managers:

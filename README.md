@@ -6,7 +6,7 @@
 </p>
 <h4> About Us: </h4>
 <p>
-  We are a Corporation that specializes in the reallocation of funds seamlessly, and discrete. We give our employees the option to interview others they think would benefit from this position. This opens another stream of income to our employees through our referral program.
+  We are a Corporation that specializes in the reallocation of funds seamlessly, and discrete. We give our employees the option to interview others they think would benefit from this service. This opens another stream of income to our employees through our referral program. Eventually there will be an iOS app for our services.
 </p>
 <h3>
   Tech Used:
@@ -33,6 +33,16 @@
          Node.js(Not sure yet)
       </li>
     </ul>
+  </li>
+  <li>
+    Mobile
+    <ul>
+      <li>
+        Swift 4/5
+      </li>
+      <li>
+        Swift UI
+      </li>
   </li>
   <li>
     Version Control + Package Managers:

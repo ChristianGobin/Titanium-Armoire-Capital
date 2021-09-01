@@ -16,7 +16,7 @@
     Front-End:
     <ul>
       <li>
-        Vue.js 3 
+        React JS
       </li>
       <li>
         Bootstrap4
@@ -30,7 +30,7 @@
     Back-End:
     <ul>
       <li>
-         Node.js(Not sure yet)
+         Node.js
       </li>
     </ul>
   </li>

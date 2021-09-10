@@ -16,13 +16,13 @@
     Front-End:
     <ul>
       <li>
-        React JS
+        Html5 & Css3
       </li>
       <li>
         Bootstrap4
       </li>
       <li>
-        Html Css JavaScript
+        Sass
       </li>
     </ul>
   </li>
@@ -30,7 +30,7 @@
     Back-End:
     <ul>
       <li>
-         Node.js
+         PHP
       </li>
     </ul>
   </li>
@@ -38,7 +38,7 @@
     Mobile
     <ul>
       <li>
-        Swift 4/5
+        Swift 5
       </li>
       <li>
         Swift UI
@@ -50,12 +50,6 @@
     <ul>
       <li>
         Git
-      </li>
-      <li>
-        Homebrew
-      </li>
-      <li>
-        Npm
       </li>
     </ul>
   </li>

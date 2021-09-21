@@ -13,5 +13,6 @@
 <ul>
   <li> Swift5 </li>
   <li> SwiftUI </li>
+  <li> XCode </li>
   <li> Git </li>
 </ul>

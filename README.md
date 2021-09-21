@@ -5,10 +5,7 @@
 </p>
 <h4> About Us: </h4>
 <p>
-   We are a Decentralized Hedge Fund that offers a discreet lending platform service. We utilize some aspects of blockchain technology, such as smart contract protocol,
-</p>
-<p>
-  
+   We are a Decentralized Hedge Fund that offers a discreet lending platform service to private institutions. We match lenders with borrowers based on our version of the SHA256 hashing algorithm combined with stealth address technology.
 </p>
 <h3>
   Tech Used:

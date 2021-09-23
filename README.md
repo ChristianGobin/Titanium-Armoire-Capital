@@ -13,6 +13,10 @@
 <ul>
   <li> Swift5 </li>
   <li> SwiftUI </li>
+  <li> html css js </li>
+  <li> Reactjs </li>
+  <li> npm </li>
+  <li> VS Code </li>
   <li> XCode </li>
   <li> Git </li>
 </ul>

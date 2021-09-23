@@ -14,6 +14,7 @@
   <li> Swift5 </li>
   <li> SwiftUI </li>
   <li> Reactjs </li>
+  <li> SemanticUI </li>
   <li> npm </li>
   <li> VS Code </li>
   <li> XCode </li>

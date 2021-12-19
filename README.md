@@ -11,13 +11,11 @@
   Tech Used:
 </h3>
 <ul>
-  <li> Swift5 </li>
-  <li> SwiftUI </li>
   <li> Reactjs </li>
-  <li> SemanticUI </li>
+  <li> Bootstrap </li>
+  <li> Express </li>
   <li> npm </li>
   <li> VS Code </li>
-  <li> XCode </li>
   <li> Git </li>
 </ul>
 <footer>

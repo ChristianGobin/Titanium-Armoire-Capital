@@ -1,4 +1,4 @@
-# titanium_armoire_capital.eth
+# tac.eth
 
 <p>
 Revamp of Titanium Armoire Capital.<br/>

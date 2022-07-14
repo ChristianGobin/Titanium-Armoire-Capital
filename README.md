@@ -1,25 +1,14 @@
-# Titanium Armoire Capital
-<hr/>
+# titanium_armoire_capital.eth
+
 <p>
-  Welcome to Titanium Armoire Capital by Christian G.<br/>
+Revamp of Titanium Armoire Capital.<br/>
+We're transitioning from a portfolio site, to a dao that executes transactions involving defi on the ethereum test net, and eventually the ethereum main net. For now we're going to stick to creating a UI in react and getting connected to the rinkby test net.
 </p>
-<h4> About Us: </h4>
-<p>
-   We are a Decentralized Hedge Fund that offers a discreet lending platform service to private institutions. We match lenders with borrowers based on our version of the SHA256 hashing algorithm combined with stealth address technology.
-</p>
-<h3>
-  Tech Used:
-</h3>
+<h4>Stack</h4>
 <ul>
-  <li> Reactjs </li>
-  <li> Bootstrap </li>
-  <li> Express </li>
-  <li> npm </li>
-  <li> VS Code </li>
-  <li> Git </li>
+<li>react.js</li>
+<li>remix.ethereum.org</li>
+<li>solidity ^0.8.0</li>
+<li>web3js</li>
+<li>npm</li>
 </ul>
-<footer>
-  <p>
-    Disclaimer: This Company is fictional, any resemblence to real world entities is purely coincidence.
-  </p>
-</footer>

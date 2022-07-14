@@ -9,6 +9,7 @@ We're transitioning from a portfolio site, to a dao that executes transactions i
 <li>react.js</li>
 <li>remix.ethereum.org</li>
 <li>solidity ^0.8.0</li>
+<li>eth.build</li>
 <li>web3js</li>
 <li>npm</li>
 </ul>

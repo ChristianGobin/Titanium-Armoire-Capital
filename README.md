@@ -1,7 +1,7 @@
 # Titanium Armoire Token
 
 <p>
-Revamp of Titanium Armoire Token.<br/>
+Revamp of Titanium Armoire Capital.<br/>
 I'm pivoting this idea from a portfolio site, to a token on the ethereum blockchain. Maybe some NFT minting later on.
 <br/>
 Still a work in progress...
